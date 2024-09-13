@@ -201,11 +201,7 @@ The script performs the following steps:
   - If the website updates its layout, you may need to update the selectors in the script.
   - Use browser developer tools to inspect elements and find the correct class names.
 
-- **Ethical Considerations**
 
-  - **Respect the website's terms of service and robots.txt file.**
-  - Use the script responsibly and avoid overloading the website with requests.
-  - Consider adding delays or adjusting threading if necessary.
 
 ---
 
