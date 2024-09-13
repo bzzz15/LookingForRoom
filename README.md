@@ -19,7 +19,6 @@ This script is designed to scrape room rental listings from the [ibilik.my](http
 - [Code Explanation](#code-explanation)
 - [Important Notes](#important-notes)
 - [Troubleshooting](#troubleshooting)
-- [License](#license)
 - [Contact](#contact)
 - [Acknowledgments](#acknowledgments)
 
@@ -224,13 +223,7 @@ The script performs the following steps:
     - Ensure that all required packages are installed and up to date.
     - Check for any typos or syntax errors in the script.
 
----
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
 
 ## Contact
 
