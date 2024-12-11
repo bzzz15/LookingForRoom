@@ -1,11 +1,11 @@
 
 
-# Room Rental Scraper for ibilik.my (Petaling Jaya)
+# Room Rental Scraper for ibilik.my 
 
 [![Python Version](https://img.shields.io/badge/python-3.6%2B-blue)](https://www.python.org/downloads/)
 
 
-This script is designed to scrape room rental listings from the [ibilik.my](https://www.ibilik.my/) website, specifically for the area of Petaling Jaya. It extracts relevant information about room rentals, filters them based on specified criteria, removes duplicates, and saves the data to Excel and CSV files.
+This script is designed to scrape room rental listings from the [ibilik.my](https://www.ibilik.my/) website. It extracts relevant information about room rentals, filters them based on specified criteria, removes duplicates, and saves the data to Excel and CSV files.
 
 ---
 
